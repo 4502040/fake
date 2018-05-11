@@ -1,4 +1,4 @@
-
+//fake2
 import { Meteor } from 'meteor/meteor';
 
 Meteor.startup(() => {
